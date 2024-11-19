@@ -18,6 +18,6 @@ The files that will be synced are:
 
         minitorch/operators.py minitorch/module.py minitorch/autodiff.py minitorch/scalar.py minitorch/scalar_functions.py minitorch/module.py project/run_manual.py project/run_scalar.py project/datasets.py
 
-<img width="642" alt="image" src="https://github.com/user-attachments/assets/844b04ee-48df-4aac-bc6d-25446d21054f">
+
 
         
