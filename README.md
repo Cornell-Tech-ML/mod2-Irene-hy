@@ -21,17 +21,28 @@ The files that will be synced are:
 * Simple
 <img width="732" alt="image" src="https://github.com/user-attachments/assets/ca0d09eb-bd80-48e6-a2de-aa90e4a62ad1">
 
+
 * Diag
 <img width="732" alt="image" src="https://github.com/user-attachments/assets/d8bd3e27-abd9-4ef0-92e0-6a7d32938168">
 
  
 * Split
+<img width="713" alt="image" src="https://github.com/user-attachments/assets/b7760024-eb3a-4cd7-b872-312e71473474">
+
   
-* Xor
+* Xor with 5 hidden layers
+<img width="752" alt="image" src="https://github.com/user-attachments/assets/06fdb25b-6301-427e-ac1a-f0b36a69d6c9">
+
+* Xor with 10 hidden layers
+<img width="746" alt="image" src="https://github.com/user-attachments/assets/505e4444-abc1-4bb0-9336-2f0ee98b87b3">
+
   
 * Circle
+<img width="733" alt="image" src="https://github.com/user-attachments/assets/387e812b-d25b-44c9-8693-9f05144e2094">
+
   
 * Spiral
+<img width="659" alt="image" src="https://github.com/user-attachments/assets/39c98e77-fd93-4824-8d45-913914816148">
 
   
 
