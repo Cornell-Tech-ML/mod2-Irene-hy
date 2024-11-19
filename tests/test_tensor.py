@@ -75,7 +75,7 @@ def test_grad_size() -> None:
     a = tensor([1], requires_grad=True)
     b = tensor([[1, 1]], requires_grad=True)
 
-    c = (a * b).sum()
+    c = (a.mul(b)).sum()
 
     c.backward()
     assert c.shape == (1,)
