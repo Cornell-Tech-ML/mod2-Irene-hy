@@ -18,6 +18,29 @@ The files that will be synced are:
 
         minitorch/operators.py minitorch/module.py minitorch/autodiff.py minitorch/scalar.py minitorch/scalar_functions.py minitorch/module.py project/run_manual.py project/run_scalar.py project/datasets.py
 
+* Simple
+<img width="742" alt="image" src="https://github.com/user-attachments/assets/4006263b-f20a-452d-a20f-daca3c121671">
+
+* Diag
+![image](https://github.com/user-attachments/assets/d8bd3e27-abd9-4ef0-92e0-6a7d32938168)
+
+ 
+* Split
+  
+* Xor
+  
+* Circle
+  
+* Spiral
+
+  
+
+
+
+
+
+
+
 
 
         
